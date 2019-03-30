@@ -1,0 +1,14 @@
+{
+  "name": "jest-example",
+  "version": "1.0.0",
+  "description": "一个使用 jest 的示例项目",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "rxliuli",
+  "license": "ISC"
+}
