@@ -1,13 +1,3 @@
----
-layout: post
-title: 使用 jest 和 babel 测试
-tags:
-  - JavaScript
-  - 记录
-abbrlink: 3a7e1b3c
-date: 2019-03-30 13:39:46
----
-
 # 使用 jest 和 babel 测试
 
 > [博客](https://blog.rxliuli.com/p/3a7e1b3c/), [GitHub 示例](https://github.com/rxliuli/jest-example)
